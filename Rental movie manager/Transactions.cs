@@ -1,4 +1,12 @@
-﻿using System;
+﻿
+// ----------------------------------------------------
+// Title: Transaction.cs
+// Author: Mohamed Salah
+// 
+// Created on: 28/9/2024
+// ----------------------------------------------------
+
+using System;
 
 namespace Rental_movie_manager
 {
