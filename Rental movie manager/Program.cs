@@ -1,4 +1,12 @@
-﻿using System;
+﻿
+// ----------------------------------------------------
+// Title: program.cs
+// Author: Mohamed Salah
+// 
+// Created on: 28/9/2024
+// ----------------------------------------------------
+
+using System;
 using System.Collections.Generic;
 
 namespace Rental_movie_manager
